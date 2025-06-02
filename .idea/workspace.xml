@@ -235,14 +235,13 @@
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="" />
-      <module name="Hotel_Reservation_System" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Smart Tomcat.Unnamed" />
       <item itemvalue="Tomcat Server.Tomcat 11.0.5" />
+      <item itemvalue="Smart Tomcat.Unnamed" />
     </list>
   </component>
   <component name="SharedIndexes">
@@ -300,6 +299,7 @@
       <workItem from="1747982490343" duration="3353000" />
       <workItem from="1747994077433" duration="8000" />
       <workItem from="1748877011459" duration="330000" />
+      <workItem from="1748877869694" duration="3000" />
     </task>
     <servers />
   </component>
