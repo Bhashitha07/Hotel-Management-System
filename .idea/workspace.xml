@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Hotel_Reservation_System:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ab64d57-e6b9-41d7-84c7-4321acb5053d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Admin/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Admin/AdminManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Admin/AdminServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reservations/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reservations/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reservations/ReservationDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reservations/ReservationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reviews/AnonymousReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reviews/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reviews/ReviewDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reviews/ReviewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reviews/SubmitReviewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Reviews/VerifiedReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Room/DeluxeRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Room/EditRoomServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Room/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Room/RoomBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Room/RoomManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Room/RoomServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Room/StandardRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hotel_reservation_system/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin_dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/edit_room.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/guest_dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/profile.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reservation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reservation_confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reservation_history.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/room_search_results.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/rooms.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/staff_dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/unauthorized.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view_reservations.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2wZvmpDlcFl0gdLNX8EdREBosbm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Tomcat 11.0.5.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bhashitha/Downloads/Toys-Store/Toys-Store&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Smart Tomcat.Unnamed">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Hotel Reservation System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 11.0.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.5" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Hotel_Reservation_System:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Hotel_Reservation_System_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="4a59f2cc-8398-4702-8fe8-3155aa95b3eb" />
+        <option name="HTTP_PORT" value="8087" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60877" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Hotel_Reservation_System:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\Bhashitha\.SmartTomcat\Hotel Reservation System\Hotel_Reservation_System" />
+      <option name="contextPath" value="/Hotel_Reservation_System" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/11.0.6" />
+          <option name="path" value="$PROJECT_DIR$/../../../../../../Program Files/apache-tomcat-11.0.6" />
+          <option name="version" value="11.0.6.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="Hotel_Reservation_System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Smart Tomcat.Unnamed" />
+      <item itemvalue="Tomcat Server.Tomcat 11.0.5" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ab64d57-e6b9-41d7-84c7-4321acb5053d" name="Changes" comment="" />
+      <created>1746262074838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746262074838</updated>
+      <workItem from="1746262075996" duration="2567000" />
+      <workItem from="1746288533518" duration="12221000" />
+      <workItem from="1746340135256" duration="3020000" />
+      <workItem from="1746373527021" duration="9605000" />
+      <workItem from="1746388819875" duration="38000" />
+      <workItem from="1746412574162" duration="2729000" />
+      <workItem from="1746420335096" duration="1658000" />
+      <workItem from="1746427946542" duration="2523000" />
+      <workItem from="1746450131292" duration="418000" />
+      <workItem from="1746455177362" duration="2464000" />
+      <workItem from="1746458544688" duration="68000" />
+      <workItem from="1746498038662" duration="93000" />
+      <workItem from="1746547466313" duration="3109000" />
+      <workItem from="1746596084350" duration="497000" />
+      <workItem from="1746618609785" duration="484000" />
+      <workItem from="1746681759766" duration="663000" />
+      <workItem from="1746720208391" duration="714000" />
+      <workItem from="1746775913510" duration="8513000" />
+      <workItem from="1747285225195" duration="1296000" />
+      <workItem from="1747292445207" duration="1885000" />
+      <workItem from="1747312617041" duration="616000" />
+      <workItem from="1747320872202" duration="3774000" />
+      <workItem from="1747340686449" duration="426000" />
+      <workItem from="1747341136910" duration="684000" />
+      <workItem from="1747342206194" duration="2161000" />
+      <workItem from="1747373165002" duration="2791000" />
+      <workItem from="1747379589214" duration="6491000" />
+      <workItem from="1747449667003" duration="556000" />
+      <workItem from="1747454116135" duration="15534000" />
+      <workItem from="1747597874199" duration="7298000" />
+      <workItem from="1747607438157" duration="2910000" />
+      <workItem from="1747618965353" duration="11176000" />
+      <workItem from="1747638979585" duration="8066000" />
+      <workItem from="1747711684324" duration="3226000" />
+      <workItem from="1747890878221" duration="3383000" />
+      <workItem from="1747922618069" duration="8341000" />
+      <workItem from="1747982490343" duration="3353000" />
+      <workItem from="1747994077433" duration="8000" />
+      <workItem from="1748877011459" duration="330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/staff_dashboard.jsp</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
