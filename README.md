@@ -138,7 +138,7 @@ A full-featured Hotel Room Reservation System built using **Java**, **JSP**, and
 ## 🧪 Technologies Used
 - Java
 - JSP / Servlets
-- HTML5 / CSS3 (Bootstrap or Tailwind)
+- HTML5 / CSS3 (Bootstrap)
 - File I/O (`.txt` and `.json`)
 - Jakarta EE
 - Object-Oriented Programming (OOP)
