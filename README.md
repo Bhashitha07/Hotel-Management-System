@@ -1,13 +1,13 @@
 # 🏨 Hotel Room Reservation System
 
-A full-featured Hotel Room Reservation System built using **Java**, **JSP**, and **Servlets** following **OOP principles** and **file-based persistence** (TXT/JSON). The system includes modules for managing users, rooms, reservations, payments, staff, and guest reviews.
+A full-featured Hotel Room Reservation System built using **Java**, **JSP**, and **Servlets** following **OOP principles** and **file-based persistence** (TXT). The system includes modules for managing users, rooms, reservations, payments, staff, and guest reviews.
 
 ---
 
 ## 📁 Project Structure
 
 ### ✅ Component 01: User Management
-**Description:** Handles guest and staff account management including registration, login, and profile updates.
+**Description:** Handles guest and staff account management, including registration, login, and profile updates.
 
 #### 🔧 CRUD Operations:
 - **Create:** Register guests and staff in `users.txt`
